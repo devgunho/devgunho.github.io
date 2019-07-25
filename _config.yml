@@ -21,7 +21,7 @@ title                    : "DevGunHo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "PARK GUN HO"
-description              : "Go To My Intro Page"
+description              : "HI!"
 url                      : "https://devgunho.github.io"  # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "PARK GUN HO"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**HI!**"
+  bio              : "**Go To My Intro Page!**"
   location         : "KOREA"
   email            :
   links:
