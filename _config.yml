@@ -21,7 +21,7 @@ title                    : "DevGunHo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "PARK GUN HO"
-description              : "HI!"
+description              : "Go To My Intro Page"
 url                      : "https://devgunho.github.io"  # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
