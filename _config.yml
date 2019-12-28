@@ -102,7 +102,7 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-138423211-2"
     anonymize_ip         : # true, false (default)
 
 
